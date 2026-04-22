@@ -1,9 +1,6 @@
-import Header from "@/components/Header";
-
-import Aboutsecond from "@/sections/Aboutus/Aboutsecond";
-import Firstsection from "@/sections/Aboutus/firstsection";
-
-
+import Header from "../../components/Header";
+import Firstsection from "../../sections/About-us/Firstsection";
+import Aboutsecond from "../../sections/About-us/Aboutsecond";
 export default function Aboutus() {
   return (
     <>
